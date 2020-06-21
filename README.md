@@ -1,6 +1,7 @@
 # E-Commerce-Automation
 Maven - Java, Cucumber BDD, Cucumber Reports, Junit,  OOP
 
+IDE : IntelliJ - Maven Project
 
 ** For Parametric browser(Default Firefox),
 
